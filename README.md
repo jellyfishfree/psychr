@@ -1,2 +1,2 @@
 # psychr
-A toolbox for statistical analysis in psychological research
+A toolbox for statistical analysis in psychological research.

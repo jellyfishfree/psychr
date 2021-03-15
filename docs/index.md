@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Psychr
 
 You can use the [editor on GitHub](https://github.com/jellyfishfree/psychr/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
+```r
+Sys.Data()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
